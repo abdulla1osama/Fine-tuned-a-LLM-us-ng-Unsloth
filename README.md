@@ -14,7 +14,9 @@ This project demonstrates efficient fine-tuning of a LLM:
 ## Project Structure
 
 ├── LLM_Llama.ipynb # training / experiments notebook
+
 ├── README.md
+
 └── data/ # datasets
 
 
